@@ -42,7 +42,6 @@ weight = 5
 +++
 
 # About
-I am senior researcher at JPMorgan Chase AI Research in New York. Before that, I was a PhD student in the department of Statistics & Data Science at Carnegie Mellon University, where I was fortunate to be advised by professor [Ann B. Lee](http://www.stat.cmu.edu/~annlee/). 
-My research interests lie in the statistical machine learning realm.
+AI Research Lead at J.P.Morgan Chase with a Ph.D. in Statistics from Carnegie Mellon University, where I was fortunate to be advised by professor [Ann B. Lee](http://www.stat.cmu.edu/~annlee/).  I develop and implement innovative AI solutions in finance, focusing on statistical machine learning, uncertainty quantification, and algorithmic fairness, which I actively publish at AI conferences. My research interests lie in deep generative models, time series analysis, temporal point processes, stochastic optimization and large language models.
 
 Prior to CMU, I have worked for a couple of years in London as Analyst for Zynga (NaturalMotion) after pursuing an M.Sc. in Statistics at Imperial College London, where I have worked on bayesian hierarchical models for cosmology under the guidance of Dr. [Daniel Mortlock](https://www.imperial.ac.uk/people/d.mortlock) and Dr. [Stephen Feeney](http://zuserver2.star.ucl.ac.uk/~smf/). Before that, everything started with a B.Sc. in Mathematics and a Diploma in Government and Natural Sciences from University of Turin, Italy.
