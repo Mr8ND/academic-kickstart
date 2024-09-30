@@ -15,7 +15,7 @@ authors = ["Stephen M. Feeney", "Daniel J. Mortlock", "<b> Niccolò Dalmasso</b>
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Monthly Notices of the Royal Astronomical Society*, Volume 476, Issue 3, p.3861-3882"

@@ -15,7 +15,7 @@ authors = ["<b> Niccolò Dalmasso</b>", "Ann B. Lee", "Rafael Izbicki", "Taylor 
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "International Conference on Artificial Intelligence and Statistics (_AISTATS_)"

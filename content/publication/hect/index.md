@@ -15,7 +15,7 @@ authors = ["<b> Niccolò Dalmasso</b>", "Galen Vincent", "Dorit Hammerling", "An
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "In *NeurIPS 2020* Tackling Climate Change with Machine Learning Workshop"

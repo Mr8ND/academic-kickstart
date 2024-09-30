@@ -15,7 +15,7 @@ authors = ["Yotam Hechtlinger", "<b> Niccolò Dalmasso</b>", "Alessandro Rinaldo
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "In *NeurIPS 2018* Workshop on Critiquing and Correcting Trends in Machine Learning"
