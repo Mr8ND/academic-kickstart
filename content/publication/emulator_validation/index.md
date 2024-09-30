@@ -15,11 +15,11 @@ authors = ["<b> Niccolò Dalmasso</b>", "Ann B. Lee", "Rafael Izbicki", "Taylor 
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "International Conference on Artificial Intelligence and Statistics (_AISTATS_)"
-publication_short = "International Conference on Artificial Intelligence and Statistics (_AISTATS_)"
+publication = "*International Conference on Artificial Intelligence and Statistics (AISTATS) 2020*"
+publication_short = "*International Conference on Artificial Intelligence and Statistics (AISTATS) 2020*"
 
 # Abstract and optional shortened version.
 abstract = "Complex phenomena are often modeled with computationally intensive feed-forward simulations for which a tractable analytic likelihood does not exist. In these cases, it is sometimes necessary to use an approximate likelihood or faster emulator model for efficient statistical inference. We describe a new two-sample testing framework for quantifying the quality of the fit to simulations at fixed parameter values. This framework can leverage any regression method to handle complex high-dimensional data and attain higher power in settings where well-known distance-based tests would not. We also introduce a statistically rigorous test for assessing global goodness-of-fit across simulation parameters. In cases where the fit is inadequate, our method provides valuable diagnostics by allowing one to identify regions in both feature and parameter space which the model fails to reproduce well. We provide both theoretical results and examples which illustrate the effectiveness of our approach."
