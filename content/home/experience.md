@@ -21,12 +21,21 @@ date_format = "January 2006"
 
 
 [[experience]]
+  title = "AI Research Lead, Vice President"
+  company = "J.P.Morgan AI Research"
+  company_url = "https://www.jpmorgan.com/insights/research"
+  location = "New York"
+  date_start = "2024-01-02"
+  date_end = ""
+  description = """"""
+
+[[experience]]
   title = "AI & Machine Learning, Senior Research Associate"
   company = "J.P.Morgan AI Research"
   company_url = "https://www.jpmorgan.com/insights/research"
   location = "New York"
   date_start = "2021-06-28"
-  date_end = ""
+  date_end = "2024-01-01"
   description = """"""
 
 
