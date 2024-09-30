@@ -271,11 +271,6 @@ enableGitInfo = false
     link = "https://github.com/Mr8ND"
 
   [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "https://twitter.com/Mr8ND"
-
-  [[params.social]]
     icon = "linkedin"
     icon_pack = "fab"
     link = "https://www.linkedin.com/in/nicdalmasso/en"
