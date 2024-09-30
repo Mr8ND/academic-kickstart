@@ -18,8 +18,8 @@ authors = ["Zikai Xiong", "<b> Niccolò Dalmasso</b>", "Vamsi K. Potluru", "Tuck
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*NeurIPS 2023 Workshop on Synthetic Data Generation with Generative AI*"
-publication_short = "*NeurIPS 2023 Workshop on Synthetic Data Generation with Generative AI*"
+publication = "*NeurIPS 2023 Workshop on Synthetic Data Generation with Generative AI* (**Contributed Talk**)"
+publication_short = "*NeurIPS 2023 Workshop on Synthetic Data Generation with Generative AI* (**Contributed Talk**)"
 
 # Abstract and optional shortened version.
 abstract = ""
