@@ -11,8 +11,10 @@ weight = 5
 [interests]
   interests = [
     "Statistical Machine Learning",
-    "Non-Parametric Methods",
-    "High Dimensional Settings"
+    "Uncertainty Quantification",
+    "Algorithmic Fairness",
+    "Stochastic Optimization",
+    "Deep Generative Models"
   ]
 
 # List your qualifications (such as academic degrees).
