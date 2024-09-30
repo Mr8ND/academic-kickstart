@@ -22,21 +22,9 @@ list_format = 0
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
-* <b>January 2021</b>: I'll be at the [AAAI Workshop on Knowledge Discovery from Unstructured Data in Financial Services](https://aaai-kdf.github.io/kdf2021/accepted_papers) presenting our paper on "[PayVAE: A Generative Model for Financial Transactions](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_17.pdf)"
-* <b>December 2020</b>: I'll be at the NeurIPS 2020 [Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/neurips2020) Workshop presenting:
-    * "[Structural Forecasting for Tropical Cyclone Intensity Prediction: Providing Insight with Deep Learning](https://www.climatechange.ai/papers/neurips2020/80)" (<b>Spotlight Talk</b>)
-    * "[HECT: High-Dimensional Ensemble Consistency Testing for Climate Models](https://www.climatechange.ai/papers/neurips2020/83)"
-* <b>August 2020</b>: At AISTATS 2020 presenting our paper "[Validation of Approximate Likelihood and Emulator Models for Computationally Intensive Simulations](http://proceedings.mlr.press/v108/dalmasso20a.html)" ([online talk](https://slideslive.com/38930256/validation-of-approximate-likelihood-and-emulator-models-for-computationally-intensive-simulations?ref=account-folder-52123-folders))
-* <b>July 2020</b>: At ICML 2020 presenting our paper "[Confidence Sets and Hypothesis Testing in a Likelihood-Free Inference Setting](https://proceedings.icml.cc/static/paper_files/icml/2020/4284-Paper.pdf)" ([online talk](https://icml.cc/virtual/2020/poster/6469))
-* <b>June 2020 - Aug. 2020</b>: Summer Research Associate, AI & Machine Learning, J.P.Morgan AI Research
-* <b>February 2020</b>: Poster presentation at the [Astronomical Data Science Workshop](https://calendar.tamu.edu/statistics/view/event/event_id/153058) at Texas A&M University, TX
-* <b>December 2019</b>: NeurIPS 2019 Workshops in Vancouver, Canada:
-  * [AI for Humanitarian Assistance and Disaster Response](https://www.hadr.ai/) (<b>Spotlight Talk</b>)
-  * [Tackling Climate Change with ML](https://www.climatechange.ai/NeurIPS2019_workshop.html) (<b>Spotlight Talk</b>)
-  * [“Do the right thing”: machine learning and causal inference for improved decision making.](http://tripods.cis.cornell.edu/neurips19_causalml/) (Poster)
-* <b>July 2019</b>: Presentation and poster at the [2019 Joint Statistical Meeting (JSM)](https://ww2.amstat.org/meetings/jsm/2019/) in Denver, CO
-* <b>June 2019</b>: Poster presentation at the [Climate Change: How can AI help?](https://www.climatechange.ai/ICML2019_workshop.html) ICML 2019 workshop in Long Beach, CA
-* <b>December 2018</b>: Poster presentation at the [Critiquing and Correcting Trends in Machine Learning](https://ml-critique-correct.github.io/) NeurIPS 2018 workshop in Montreal, Canada
-* <b>May 2018 - Aug. 2018</b>: AI Research Intern at IBM Research in Yorktown Heights, NY
-* <b>November 2017</b>: National finalist at the Citadel Data Open in New York, NY
-* <b>September 2017</b>: Winner of the [Citadel Data Open](https://www.cmu.edu/dietrich/news/news-stories/2017/november/statistics-datathons.html) at Carnegie Mellon University, with fellow students [Alan Mishler](https://amishler.github.io/), [Kwangho Kim](https://www.linkedin.com/in/kwangho-joshua-kim/) and Chirag Nagpal
+* <b>December 2024</b>: I'll be in Vancouver at NeurIPS 2024 presenting our paper on [Fair Wasserstein Coresets](https://arxiv.org/abs/2311.05436)
+* <b>February 2024</b>: We presented our paper on fair Wasserstein preprocessing [FairWASP](https://arxiv.org/abs/2311.00109) at AAAI 2024
+* <b>January 2024</b>: Our paper on equipping stochastic optimization with splitting diagnostic [SplitSGD](https://openreview.net/forum?id=3PbxuMNQkp) has been published into Transaction of Machine Learning Research (TMLR)
+* <b>December 2023</b>: Our work on [Fair Wasserstein Coresets](https://arxiv.org/abs/2311.05436) was awarded a contributed talk at the NeurIPS 2023 Workshop on ["Synthetic Data Generation with Generative AI"](https://neurips.cc/virtual/2023/workshop/66540): see the video [here](https://neurips.cc/virtual/2023/82245)
+* <b>August 2023</b>: We presented our work on [Deep Gaussian Mixture Ensembles](https://proceedings.mlr.press/v216/el-laham23a/el-laham23a.pdf) at the 2023 UAI Conference in Pittsburgh
+
