@@ -18,8 +18,8 @@ authors = ["David Zhao", "<b> Niccolò Dalmasso</b>", "Rafael Izbicki", "Ann B. 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Accepted at *UAI 2021*"
-publication_short = "Accepted at *UAI 2021*"
+publication = "*Uncertainty in Artificial Intelligence (UAI) 2021*"
+publication_short = "*Uncertainty in Artificial Intelligence (UAI) 2021*"
 
 # Abstract and optional shortened version.
 abstract = ""
