@@ -19,7 +19,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Statistics & Data Science"
+  course = "PhD in Statistics"
   institution = "Carnegie Mellon University"
   year = 2021
 
@@ -35,7 +35,7 @@ weight = 5
 
 [[education.courses]]
   course = "Diploma in Natural Sciences"
-  institution = "Scuola di Studi Superiori 'Ferdinando Rossi'"
+  institution = "Scuola di Studi Superiori 'Ferdinando Rossi' SSST"
   year = 2010
   
 [[experience]]
